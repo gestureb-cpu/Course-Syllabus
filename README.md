@@ -30,7 +30,7 @@ As an educator, my teaching approach emphasizes connecting foundational computin
 Faculty Headshot
 Upload headshot to the repository's /images folder.
 
-Image
+Image/My Photo.jpeg
 
 Mentorship & Support:
 Prof. Sajida Faiyaz- Austin 
