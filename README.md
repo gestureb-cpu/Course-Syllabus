@@ -32,26 +32,36 @@ My professional experience includes data architecture model design, data and inf
 
 As an educator, my teaching approach emphasizes connecting foundational computing theory with practical industry applications. The Computer Architecture course provides students with opportunities to understand not only how computers work internally, but also how those architectural principles influence modern cloud platforms, AI systems, data-intensive applications, and enterprise computing environments.
 
+
 Faculty Headshot
 Upload headshot to the repository's /images folder.
 
 Image/My Photo.jpeg
 
+
+
 Mentorship & Support:
 
 Prof. Sajida Faiyaz- Austin 
+
+
 
 Science Gateway Resources & Technology Notes
 
 Jetstream2
 
+
+
 Description:
 
 A cloud-based research computing environment providing access to computational resources for research, education, and experimentation.
 
+
 Course Use:
 
 Jetstream2 will serve as a primary experiential environment for helping students connect computer architecture concepts to cloud computing.
+
+
 
 Students will use the environment to explore:
 
@@ -67,6 +77,8 @@ Performance considerations
 
 Students will compare traditional computing environments with cloud-based infrastructure and document how architectural resources are represented within a cloud environment.
 
+
+
 Industry Integration
 
 A major component of the course is connecting academic concepts to real-world enterprise computing.
@@ -74,6 +86,8 @@ A major component of the course is connecting academic concepts to real-world en
 Students will examine architecture from the perspective of an enterprise technology environment and explore how computer architecture supports systems used in different industries.
 
 Industry examples will demonstrate how architecture decisions influence enterprise applications, data platforms, analytics environments, cloud systems, and AI solutions.
+
+
 
 Redesigned Student Learning Experience
 
@@ -108,6 +122,7 @@ Students examine how AI workloads influence the evolution of processors, memory 
 Students apply their knowledge to design or evaluate a computing architecture capable of supporting an AI workload.
 
 
+
 Implementation Notes
 
 Session 1: Foundations
@@ -129,6 +144,7 @@ Examine how AI and machine-learning workloads place demands on processors, memor
 Session 5: Architecture Analysis
 
 Students compare traditional and cloud architectures and analyze how architectural decisions affect performance and scalability.
+
 
 
 Deliverables Checklist
