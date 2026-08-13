@@ -2,6 +2,7 @@ I filled in the sections that can be supported from your background and marked t
 
 FacultyHack@Gateways 2026 Curriculum Project
 Project Overview
+
 This project redesigns and enhances an undergraduate Computer Architecture course to help students understand the fundamental principles of computer architecture and how those principles have evolved to support modern architecture cloud computing, and data-intensive workloads.
 
 Course: [CMP 431 Computer Architecture]
@@ -16,11 +17,15 @@ A central theme of the redesigned course is the connection between traditional o
 
 Faculty Information
 Name: Prof. Joshua Gbadebo
+
 Institution: Voorhees University
+
 Department: Science, Technology, Health, and Human Services
+
 Disciplines: Cyber security, Cloud Computing, Programming, Computer Architecture, Data Structures and Algorithm, Mathematics, Artificial Intelligence, Research Computing, and Science Gateways
 
 Brief Bio / CV
+
 Joshua Gbadebo is a computing professional and educator with extensive industry experience spanning data architecture, data engineering, data security architecture, cloud computing, enterprise technology, healthcare data, application modernization, and artificial intelligence.
 
 My professional experience includes data architecture model design, data and infrastructure migration, designing and supporting enterprise data and cloud solutions using technologies such as Microsoft Azure, Snowflake, Databricks, Azure Synapse, Docker, Python, SQL, Spark, and cloud-based data platforms. My industry work has included healthcare data environments, enterprise data architecture, modernization of legacy systems, cloud migration, data governance, security, and scalable data processing.
@@ -33,15 +38,19 @@ Upload headshot to the repository's /images folder.
 Image/My Photo.jpeg
 
 Mentorship & Support:
+
 Prof. Sajida Faiyaz- Austin 
 
 Science Gateway Resources & Technology Notes
+
 Jetstream2
 
 Description:
+
 A cloud-based research computing environment providing access to computational resources for research, education, and experimentation.
 
 Course Use:
+
 Jetstream2 will serve as a primary experiential environment for helping students connect computer architecture concepts to cloud computing.
 
 Students will use the environment to explore:
@@ -100,6 +109,7 @@ Students apply their knowledge to design or evaluate a computing architecture ca
 
 
 Implementation Notes
+
 Session 1: Foundations
 
 Review traditional computer architecture concepts and identify opportunities to connect them to modern cloud and AI environments.
