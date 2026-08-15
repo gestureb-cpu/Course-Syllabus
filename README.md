@@ -36,7 +36,8 @@ As an educator, my teaching approach emphasizes connecting foundational computin
 Faculty Headshot
 Upload headshot to the repository's /images folder.
 
-Image/My Photo.jpeg
+<img src="Image/My Photo.jpeg" alt="" width="300">
+
 
 
 
