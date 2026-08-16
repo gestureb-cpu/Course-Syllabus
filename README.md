@@ -152,7 +152,8 @@ Students compare traditional and cloud architectures and analyze how architectur
 
 Deliverables Checklist
 
- Original Syllabus: original_syllabus.pdf
+ Original Syllabus: <a href="[CMP 431 Computer Architecture]">Download Word Document</a>
+
  
  Revised Syllabus: revised_syllabus.pdf
  
