@@ -152,7 +152,7 @@ Students compare traditional and cloud architectures and analyze how architectur
 
 Deliverables Checklist
 
- Original Syllabus: <a href="CMP 431 OL Course.docx">Download Word Document</a>
+ Original Syllabus: <a href="CMP 431 OL Course.docx">Original_Syllabus</a>
 
  
  Revised Syllabus: revised_syllabus.pdf
