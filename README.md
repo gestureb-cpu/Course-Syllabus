@@ -154,6 +154,8 @@ Deliverables Checklist
 
  Original Syllabus: <a href="CMP 431 OL Course.docx">Original_Syllabus</a>
 
+ <a href="[CMP 431 OL Course.docx)]">[Original_Syllabus]</a>
+
  
  Revised Syllabus: revised_syllabus.pdf
  
